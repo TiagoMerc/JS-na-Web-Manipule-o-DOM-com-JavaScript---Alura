@@ -2,13 +2,17 @@
 
 
 #### Faça esse curso de JavaScript e:
+
 - Aprenda como funciona o DOM
 
 - Manipule o DOM para alterar, adicionar, remover e criar novos elementos na árvore de objetos
 
 - Trabalhe com componentização para facilitar a organização do projeto
 
--- Utilize o sistema de módulos do Javascript para proteger os arquivos
+- Utilize o sistema de módulos do Javascript para proteger os arquivos
+
+**GitHub Pages**
+[Acessem]()
 
 ### 01. Conhecendo o DOM
 
@@ -57,3 +61,15 @@ Nesta aula, aprendemos:
 - Utilizar IIFE
 
 ![Concluir tarefa](projeto_inicial/assets/prints/ConcluirTarefa.png)
+
+### 05. Remover tarefa
+
+Nesta aula, aprendemos:
+
+- Utilizar import/export
+
+- Remover elementos do DOM com o método remove
+
+- Entender Same Origin Police e CORS
+
+![Remover tarefa](projeto_inicial/assets/prints/RemoverTarefa.png)

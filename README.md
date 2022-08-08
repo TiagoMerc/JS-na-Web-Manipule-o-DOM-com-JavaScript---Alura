@@ -41,3 +41,5 @@ Nesta aula, aprendemos:
 - Colocar um elemento filho dentro do elemento pai utilizando o método **appendChild**
 
 - Criar elementos utilizando o método **createElement**
+
+![Adicionar item na lista](projeto_inicial/assets/prints/ComportamentoFormulario.png)

@@ -55,3 +55,5 @@ Nesta aula, aprendemos:
 - Encontrar o alvo do evento utilizando a propriedade **target**
 
 - Utilizar IIFE
+
+![Concluir tarefa](projeto_inicial/assets/prints/ConcluirTarefa.png)

@@ -31,3 +31,13 @@ Nesta aula, aprendemos:
 - Prevenir o comportamento padrão do formulário
 
 ![Comportamento do formulário](projeto_inicial/assets/prints/ComportamentoFormulario.png)
+
+### 03. Adicionar item na lista
+
+Nesta aula, aprendemos:
+
+- Utilizar **template strings**
+
+- Colocar um elemento filho dentro do elemento pai utilizando o método **appendChild**
+
+- Criar elementos utilizando o método **createElement**

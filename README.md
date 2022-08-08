@@ -43,3 +43,15 @@ Nesta aula, aprendemos:
 - Criar elementos utilizando o método **createElement**
 
 ![Adicionar item na lista](projeto_inicial/assets/prints/AdicionandoItemLista.png)
+
+### 04. Concluir tarefa
+
+Nesta aula, aprendemos:
+
+- Adicionar classe CSS utilizando o método **toggle**
+
+- Utilizar o atributo **parentElement** para subir um elemento na árvore do DOM
+
+- Encontrar o alvo do evento utilizando a propriedade **target**
+
+- Utilizar IIFE

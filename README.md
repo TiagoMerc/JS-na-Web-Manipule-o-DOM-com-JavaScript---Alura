@@ -12,7 +12,7 @@
 - Utilize o sistema de módulos do Javascript para proteger os arquivos
 
 **GitHub Pages**
-[Acessem]()
+[Acessem](https://tiagomerc.github.io/JS-na-Web-Manipule-o-DOM-com-JavaScript---Alura/)
 
 ### 01. Conhecendo o DOM
 
